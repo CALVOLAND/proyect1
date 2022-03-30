@@ -14,7 +14,7 @@
   }
   
   .tabs label:hover{
-    background-color: rgb(2, 0, 109);
+    background-color: rgb(1, 0, 41);
   } 
 
   .tabs .tab {
@@ -23,7 +23,7 @@
     width: 100%;
     display: none;
     padding: 1rem;
-    background: #fff;
+    background: #333;
   }
   
   .tabs input[type="radio"] {
@@ -31,8 +31,8 @@
   }
   
   .tabs input[type="radio"]:checked + label {
-    background: #fff;
-    color:rgb(0, 0, 0);
+    background: #333;
+    color:rgb(255, 255, 255);
   }
   
   .tabs input[type="radio"]:checked + label + .tab {
@@ -60,7 +60,7 @@
     line-height: 1.5;
     margin: 0 auto;
     font-size: 112%;
-
+    color: #fff;
   }
 
   .responsive {
@@ -75,3 +75,4 @@
 span {
     padding: 10px;
 }
+/* https://motopor1111.github.io/cv_luis_Eric_sanchez_Ruiz */
