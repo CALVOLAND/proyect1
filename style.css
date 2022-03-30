@@ -64,8 +64,8 @@
   }
 
   .responsive {
-    max-height: 90vh;
-    width: 30vh;
+    max-width: 32vh;
+    height: auto;
   }
 
   .aligned {
